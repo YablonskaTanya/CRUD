@@ -4,78 +4,111 @@
       "id": "1",
       "title": "Последнее королевство",
       "author": "Бернард Корнуэлл",
-      "genres": ["приключения"],
+      "genres": [
+        "приключения"
+      ],
       "rating": 8.38
     },
     {
       "id": "2",
-      "title": "На берегу спокойных вод",
+      "title": "Clear JS The best time",
       "author": "Роберт Шекли",
-      "genres": ["фантастика"],
+      "genres": [
+        "фантастика"
+      ],
       "rating": 8.51
     },
     {
       "id": "3",
-      "title": "Пожиратель призраков",
-      "author": "Говард Лавкрафт",
-      "genres": ["ужасы", "мистика"],
+      "title": "Great time",
+      "author": "no name",
+      "genres": [
+        "ужасы",
+        "мистика"
+      ],
       "rating": 7.94
     },
     {
       "id": "4",
-      "title": "Разоблаченный проходимец",
+      "title": "Css",
       "author": "Франц Кафка",
-      "genres": ["классика"],
-      "rating": 6.62
+      "genres": [
+        "классика"
+      ],
+      "rating": 7
     },
     {
       "id": "5",
       "title": "Два солнца",
       "author": "Леонид Кудрявцев",
-      "genres": ["фантастика"],
+      "genres": [
+        "фантастика"
+      ],
       "rating": 6.36
     },
     {
       "id": "6",
       "title": "Сон смешного человека",
       "author": "Федор Достоевский",
-      "genres": ["классика"],
+      "genres": [
+        "классика"
+      ],
       "rating": 7.75
     },
     {
       "id": "207d",
       "title": "Новая книга",
       "author": "Я",
-      "genres": ["наука"],
+      "genres": [
+        "наука"
+      ],
       "rating": 9.99
     },
     {
       "id": "57ea",
       "title": "New JS book",
       "author": "Alan Play",
-      "genres": ["scientist"],
+      "genres": [
+        "scientist"
+      ],
       "rating": 6.98
     },
     {
       "id": "356c",
       "title": "New CSS book",
       "author": "Mikael Harvy ",
-      "genres": ["scientist", "news"],
+      "genres": [
+        "scientist",
+        "news"
+      ],
       "rating": 6.92
     },
     {
       "id": "9a77",
       "title": "New React book",
       "author": "Jon Bernard",
-      "genres": ["news"],
+      "genres": [
+        "news"
+      ],
       "rating": 4.92
     },
     {
       "id": "9d03",
       "title": "New Node book",
       "author": "Alan Node",
-      "genres": ["scientist"],
+      "genres": [
+        "scientist"
+      ],
       "rating": 8.98
+    },
+    {
+      "id": "6429",
+      "title": "New TS book",
+      "author": "Type Script",
+      "genres": [
+        "TS"
+      ],
+      "rating": 8
     }
   ]
 }
